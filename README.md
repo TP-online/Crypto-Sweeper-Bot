@@ -1,7 +1,6 @@
 # Crypto-Sweeper-Bot
 
-Hello,
-Today I will teach you and show you a way you can potentially earn a lot of money. I will always try to update my e-books to add new methods and improve effectiveness. If you would like to purchase a script or need help setting up one you already purchased from me, you can contact me on Telegram. My username is: [@Kairo_Kinetic](https://t.me/Kairo_Kinetic)  If you need any custom scampages, visit my Telegram channel. I also bot pretty much all social media platforms so for me this script is almost completely passive income, after setup i don't have to engage with anyone, I just make sure the bots keep running and growing an audience and spreading my collection plate around LOL.
+Greetings! Today, I'd like to share with you a valuable opportunity that has the potential to help you earn a significant amount of money. In my continuous effort to improve, I am always updating my e-books with new and effective methods. If you ever need any assistance in setting up a script that you have purchased from me or would like to purchase one, I am happy to help. you can contact me on Telegram. My username is: [@Kairo_Kinetic](https://t.me/Kairo_Kinetic)  If you need any custom scampages, visit my Telegram channel. I also bot pretty much all social media platforms so for me this script is almost completely passive income, after setup i don't have to engage with anyone, I just make sure the bots keep running and growing an audience and spreading my collection plate around LOL.
 
 + likes & followers on both Onlyfans & Fansly. I also have many EW tools and private packs for sale, just message me to see samples.
 
