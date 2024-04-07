@@ -85,15 +85,18 @@ Get a Discord webhook from any channel you want to see notifications in every ti
 
 *Oh, and FYI I've been known to give discounts to people that fell for one of the fake ones that is being sold by scammers. Just message me with proof.*
 ---
+---
 
-# ⚠️ IMPORTANT ⚠️
-Just know that I've never seen an imposter script that implements multi-sig and Discord webhooks (It would make it a lot harder for them to ultimately steal all your money if they implemented multi-sig), but the scammers can still find a way to get it from you.
+# <p align="center">⚠️ IMPORTANT ⚠️</p>  
+**Just know that I've never seen an imposter script that implements multi-sig and Discord webhooks (It would make it a lot harder for them to ultimately steal all your money if they implemented multi-sig), but the scammers can still find a way to get it from you.**
 
-The only way you are guaranteed to get the legit script is buying it from the shop above. NOT from some jackoff on telegram who calls himself "MasterSwiper" or some shit like that. LOL
+**The only way you are guaranteed to get the legit script is buying it from the shop above. NOT from some jackoff on telegram who calls himself "MasterSwiper" or some shit like that. LOL**
 
 **So what's more important to know is that my script is 100% human readable. Absolutely none of my script uses any kind of obfuscation or encoding, if you see any of that it's a huge red flag 🚩someone is most likely trying to hide a backdoor!**
  
 ---
+---
+
 
 If you are unable to complete these last steps, check the script guide or contact your seller/programmer. In the newest version of the sweeper, you will also have multisig support & the option to input a discord webhook so you get a notification every time you get a victim showing how much TRX was transferred and what the USD equivalent is.
 
