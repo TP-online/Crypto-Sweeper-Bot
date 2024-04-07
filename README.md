@@ -11,14 +11,14 @@ Ok, let's start with this! You will need to download a Tronlink wallet first.
 
 ![imgur](https://imgur.com/yRN8ec2.png)
 
-Install Tronlink wallet from here: https://chromewebstore.google.com/detail...koeoihofec  
-or here if you're using a mobile: https://tronlink.org
+Install Tronlink wallet from the Chrome Webstore or from here: https://tronlink.org  
 
-Choose your device or browser if you are using desktop. You can install it on any device it doesn't matter, but when your victims install it you need to implement a tiny bit of SE and ensure that they are only using the browser extension. Now you need to click "import wallet." They ask you to enter your recovery seed phrase, and they ask for a password but what it means is create a password.
-Import this 12-word phrase:
+You can install it on any device it doesn't matter, but when your victims install it you need to implement a tiny bit of SE and ensure that they are only using the browser extension.   
 
+Now you need to click "import wallet." They ask you to enter your recovery seed phrase, and they ask for a password but what they mean is create a password.
+### Import this 12-word phrase:  
 
-crew    equip    chapter    badge    firm    script    world    burst   smoke    hobby    chair    soda
+**crew    equip    chapter    badge    firm    script    world    burst   smoke    hobby    chair    soda**  
 
 
 Congrats! Now you have a Tronlink wallet with $240 USDT.
