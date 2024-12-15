@@ -46,8 +46,9 @@ There are three main methods to get this script.
           is to buy it from the developer. The script's price is $200.00 https://primetools.world/product/trx-sweeper and the dev helps you set it up if you don't understand certain parts, you get full after purchase support. He also offers to host the bot for you for $25 for 6 months which is alot cheaper than renting a VPS for $10 a month! He even offers an option to set the whole thing up for you, although that option does cost a little more.
  
 #### The second method
-          is to get a cracked script. You can download a cracked version possibly from forums like this if you look hard enough, but i wouldn't trust those at all and I don't vouch for this method at all. 
-          I'm  not responsible if you find a script that has hidden malware that changes your wallet address. (I've seen it happen to people before they realize it's better to just pay for it)
+          is to get a cracked script. You can download a cracked version possibly from forums like this if you look hard enough, but i wouldn't trust those at all and I don't vouch for this method at all.   
+          I'm  not responsible if you find a script that has hidden malware that changes your wallet address.  
+          (I've seen it happen to people before they realize it's better to just pay for it)
  
 #### The third method
           is to go to a freelancer website and ask a programmer to make one for you. It'll cost around $500+
@@ -82,8 +83,6 @@ Get a Discord webhook from any channel you want to see notifications in every ti
    axios.post('https://discord.com/api/webhooks/identifier') ; //replace link with your webhook
 ![imgur](https://imgur.com/wJTYhQz.png)
 
-
-*Oh, and FYI I've been known to give discounts to people that fell for one of the fake ones that is being sold by scammers. Just message me with proof.*
 ---
 ---
 
