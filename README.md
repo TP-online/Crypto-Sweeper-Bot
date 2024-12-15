@@ -43,7 +43,7 @@ Now we need to connect this wallet with a script.
 There are three main methods to get this script.
 
 #### The first method
-          is to buy it from the developer. The script's price is $100.00 https://primetools.world/product/trx-sweeper and the dev helps you set it up if you don't understand certain parts, you get full after purchase support. He even offers an option to set the whole thing up for you, although that option does cost a little more.
+          is to buy it from the developer. The script's price is $200.00 https://primetools.world/product/trx-sweeper and the dev helps you set it up if you don't understand certain parts, you get full after purchase support. He also offers to host the bot for you for $25 for 6 months which is alot cheaper than renting a VPS for $10 a month! He even offers an option to set the whole thing up for you, although that option does cost a little more.
  
 #### The second method
           is to get a cracked script. You can download a cracked version possibly from forums like this if you look hard enough, but i wouldn't trust those at all and I don't vouch for this method at all. 
