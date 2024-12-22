@@ -128,8 +128,8 @@ Visit website reviews, something like TrustPilot and ScamAdviser.com, and go to 
 Prime tools has been awesome letting me sell on their shop! It's worth noting that they also have some other very effective crypto tools, I have one of their Clippers that has treated me very well and I'm working on their "Crypto RugPull Token Contract" right now, so we'll see how that goes. I'll keep you guys updated on that.
 
 if you want to check them out it's [https://primetools.world](https://primetools.world)  
-and their Telegram is [https://t.me/primetoolsworld](https://t.me/primetoolsworld)
+and their Telegram is [https://t.me/primetoolsbackup](https://t.me/primetoolsbackup)
 
 # Work Smarter not Harder.
 **If you're going to scam people, then scam the motherfuckers that are already trying to scam you!
-The beauty of this method is nobody will become a victim unless they were actively trying to steal from you in the first place.**
+The beauty of this method is that nobody will become a victim unless they are actively trying to steal from you in the first place.**
