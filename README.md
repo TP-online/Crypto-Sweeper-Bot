@@ -4,9 +4,6 @@ Greetings! Today, I'd like to share with you a valuable opportunity that has the
 
 + likes & followers on both Onlyfans & Fansly. I also have many EW tools and private packs for sale, just message me to see samples.
 
-
-## April 4, 2024  
-Man it's been a crazy year so far and we're only in April!
 Ok, let's start with this! You will need to download a Tronlink wallet first.
 
 ![imgur](https://imgur.com/yRN8ec2.png)
