@@ -111,17 +111,21 @@ Congratulations! Now you have your trap wallet, deposit in it some USDT / Tether
 
 ## How to get victims to hack your wallet and put some TRX on it?
 
-#### The first method (outdated)
+### The first method (outdated)
 is to share your wallet private key on leaked forums and groups and tell them that the wallet has been hacked. Everyone will hurry up to take money from it, and you get tons of victims.
  
-#### The second method
+### The second method
 is to go to social media and create a fake profile with a picture of an old woman. Send them this DM: "Hey there, I've got a wallet with 1k $USDT in it, but I don't know how to use it. Could you withdraw it for me, and we will split it in half? Here is my Secret Phrase:" (and enter the seed phrase to their wallet). I use this method on Twitter and Facebook; 99% of victims think they are smart LOL, and they're trying to steal your money because you are an old woman.
- 
-#### The fourth method
+
+### The third method
 You will need to create an Instagram profile because we will use the autopilot method to share your private key. You must use the CHROME browser, and you will install a plugin named "IG Comment Bot." This bot will automatically post comments on new images that are added on Instagram, but we won't spread this on shit posts. We will target specific hashtags like cryptocurrency-related or investment-related hashtags.
- 
-#### The fifth method
+
+### The fourth method
 Visit website reviews, something like TrustPilot and ScamAdviser.com, and go to exchange pages like Binance or Coinbase. Write negative feedback with your private key, telling them that you have $1000 and you can't withdraw it.
+ 
+### The fifth method  
+The ultimate success rate comes when you can get people to NOT receive your seed phrase from you giving it to them, or them reading it in some comments section, but when they put some amount of effort into finding it themselves. If they have to work for it or put their own effort into finding it, they inherently have much more trust in it. Not to mention if they think they're the only ones who have it! (TOO EASY = SUS ASF)
+That's why the best tool for the proliferation of your seed phrase is The Fake Wallet Cracker from Prime Tools! It appears to be a brute-force wallet cracker that scans the blockchain at hyperspeed attempting to brute-force private keys, when actually you've configured it to "crack" only the wallets you want it to. Which means you get a custom delivery system that makes people think they are actually cracking the wallet themselves, thus putting their own effort into finding your seed phrase. In testing we saw over 400% increase in hits, which means 5x more people sent money to our trap wallet. You can get this tool from the same site as the Sweeper and actually get a huge discount if you buy them both together as a package deal and get free updates, and we just shipped a huge update today that makes the tool exponentially better and more customizable. All previous buyers got it for free!
 
 **You can try many methods and create your own private method of proliferation. However you do it, you just need to share your wallet and get victims. Get creative! For a short time I will also share the methods that I currently use with whoever buys the script. If you want to know just ask me, but once I give it out to ten people or so I'm not going to continue because I do still use those methods**
 
