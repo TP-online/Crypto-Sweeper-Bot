@@ -4,29 +4,29 @@ Greetings! Today, I'd like to share with you a valuable opportunity that has the
 
 + likes & followers on both Onlyfans & Fansly. I also have many EW tools and private packs for sale, just message me to see samples.
 
-Ok, let's start with this! You will need to download a Tronlink wallet first.
+Ok, let's start with this! You will need to download a wallet first.
 
 ![imgur](https://imgur.com/yRN8ec2.png)
 
-Install Tronlink wallet from the Chrome Webstore or from here: https://tronlink.org  
+Install OKX wallet from the Chrome Webstore [HERE](https://chromewebstore.google.com/detail/okx-wallet/mcohilncbfahbmgdjkbpemcciiolgcge)  
 
-You can install it on any device it doesn't matter, but when your victims install it you need to implement a tiny bit of SE and ensure that they are only using the browser extension.   
+You can install it on any device it doesn't matter, if it's on a mobile device just install it from your app store.  
 
-Now you need to click "import wallet." They ask you to enter your recovery seed phrase, and they ask for a password but what they mean is create a password.
+Now you need to click "import wallet." They ask you to enter your recovery seed phrase, and to set a local password.
 ### Import this 12-word phrase:  
 
-**crew    equip    chapter    badge    firm    script    world    burst   smoke    hobby    chair    soda**  
+**alarm fetch churn bridge exercise tape speak race clerk couch crater letter**  
 
 
-Congrats! Now you have a Tronlink wallet with $240 USDT.
+Congrats! Now you have a Tronlink wallet with $8k USDT.
 
 ![imgur](https://imgur.com/sLi8oNE.png)
 
 
 ## **But wait...**  
-You are happy now because you get free $240 . And you will try to withdraw this money fast to your wallet. 
+You are happy now because you get free $8k. And you will try to withdraw this money fast to your wallet. 
 The first thing you need TRX to pay a fee for this transaction. But there is no TRX on this wallet. 
-You are now thinking to transfer some TRX from your wallet and steal this $240 . 
+You are now thinking to transfer some TRX from your wallet and steal this $8k. 
 
 ### Stop and don't do this!
 Because it's a trap. I call it the "scam a scammer" method. This wallet is connected with a bot script that reacts faster than a human, and when you send your TRX, the script will withdraw it faster than you to my wallet. And no matter how hard you try, you can't withdraw it. With this trap method, I earn a very healthy passive income every day, and today I will show you how to create a trap wallet like this and how to use it to earn a lot of money also.
