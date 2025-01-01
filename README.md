@@ -18,7 +18,7 @@ Now you need to click "import wallet." They ask you to enter your recovery seed 
 **alarm fetch churn bridge exercise tape speak race clerk couch crater letter**  
 
 
-Congrats! Now you have a Tronlink wallet with $8k USDT.
+Congrats! Now you have a OKX wallet with $8k USDT.
 
 ![imgur](https://imgur.com/sLi8oNE.png)
 
