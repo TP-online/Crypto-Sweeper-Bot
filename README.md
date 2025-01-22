@@ -7,6 +7,7 @@ Greetings! Today, I'd like to share with you a valuable opportunity that has the
 Ok, let's start with this! You will need to download a wallet first.
 
 ![imgur](https://imgur.com/yRN8ec2.png)
+![imgur](https://imgur.com/sIeVIEq.png)
 
 Install OKX wallet from the Chrome Webstore [HERE](https://chromewebstore.google.com/detail/okx-wallet/mcohilncbfahbmgdjkbpemcciiolgcge)  
 
@@ -20,7 +21,7 @@ Now you need to click "import wallet." They ask you to enter your recovery seed 
 
 Congrats! Now you have a OKX wallet with $8k USDT.
 
-![imgur](https://imgur.com/sLi8oNE.png)
+![imgur](https://imgur.com/rcR22H7.png)
 
 
 ## **But wait...**  
