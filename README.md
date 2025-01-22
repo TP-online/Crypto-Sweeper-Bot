@@ -88,7 +88,8 @@ Get a Discord webhook from any channel you want to see notifications in every ti
 
 **The only way you are guaranteed to get the legit script is buying it from the shop above. NOT from some jackoff on telegram who calls himself "MasterSwiper" or some shit like that. LOL**
 
-**So what's more important to know is that my script is 100% human readable. Absolutely none of my script uses any kind of obfuscation or encoding, if you see any of that it's a huge red flag 🚩someone is most likely trying to hide a backdoor!**
+**So what's more important to know is that my script does now implement Discord webhooks and multisig, so if someone is claiming to be selling you the Prime Sweeper Bot, but it doesn't include those, or they can't answer any questions about it, that's a huge red flag 🚩that they are a scammer and is most likely trying to sell you something with a backdoor!**  
+Personally, I can give you a temporary key so you can even set it all up and see it working before you even pay. Then if you like it I give you a permanent version, if you don't I deactivate your temporary key. Simple as that, and you get a risk-free experience without the possibility of getting scammed!
  
 ---
 ---
